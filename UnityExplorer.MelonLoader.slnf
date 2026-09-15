@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "UnityExplorer.sln",
+    "projects": [
+      "UnityExplorer.MelonLoader.IL2CPP\\UnityExplorer.MelonLoader.IL2CPP.csproj",
+      "UnityExplorer.MelonLoader.Mono\\UnityExplorer.MelonLoader.Mono.csproj",
+      "UnityExplorer.MelonLoader.MonoBleedingEdge\\UnityExplorer.MelonLoader.MonoBleedingEdge.csproj",
+      "external/mcs-unity\\mcs.csproj",
+      "external\\UniverseLib\\UniverseLib.MelonLoader.IL2CPP\\UniverseLib.MelonLoader.IL2CPP.csproj",
+      "external\\UniverseLib\\UniverseLib.Mono\\UniverseLib.Mono.csproj"
+    ]
+  }
+}
